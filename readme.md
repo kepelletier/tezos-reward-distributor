@@ -1,6 +1,7 @@
 ## DEPRECATED
 We do not use this repository anymore. We take TRD directly from the TRD repository since last year : https://github.com/taurusgroup/tg-tezosbaked/pull/72/files
 
+##
 
 <img src="https://raw.githubusercontent.com/habanoz/trd-art/master/logo-narrow/trd_512__1.png" width="128" /> 
 
