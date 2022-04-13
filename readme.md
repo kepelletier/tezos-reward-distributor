@@ -1,4 +1,4 @@
-## TAURUS DEPRECATED
+## DEPRECATED
 We do not use this repository anymore. We take TRD directly from the TRD repository since last year : https://github.com/taurusgroup/tg-tezosbaked/pull/72/files
 
 
